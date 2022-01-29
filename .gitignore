@@ -1,0 +1,6 @@
+.env
+node_modules/*
+package.json
+package-lock.json
+.DS_Store
+public/contract_browser.js
